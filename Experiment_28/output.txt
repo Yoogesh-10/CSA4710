@@ -1,0 +1,13 @@
+Toy visible patterns:
+ [[1. 1. 0. 0. 1. 1.]
+ [1. 0. 0. 1. 1. 0.]
+ [0. 1. 1. 0. 0. 1.]]
+Hidden activations:
+ [[1.4 1.4]
+ [1.1 0.8]
+ [0.8 1.1]]
+Reconstructed patterns:
+ [[0 0 0 0 0 0]
+ [0 0 0 0 0 0]
+ [0 0 0 0 0 0]]
+Toy energy values: [-0. -0. -0.]

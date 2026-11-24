@@ -1,0 +1,7 @@
+Factor loadings (rows=features):
+ [[ 0.173  0.941]
+ [ 0.171  0.923]
+ [ 1.029 -0.195]
+ [ 1.048 -0.135]
+ [ 0.565  0.272]]
+Interpretation: factor patterns suggest service and value dimensions.

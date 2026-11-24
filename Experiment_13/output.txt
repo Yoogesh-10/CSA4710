@@ -1,0 +1,2 @@
+Sequences shape: (228, 12) Train/test: 182 46
+Test MAE: 6.186

@@ -1,0 +1,2 @@
+Simple model MAE: 7.9783
+Gated-inspired larger model MAE: 0.608

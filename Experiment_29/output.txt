@@ -1,0 +1,2 @@
+VAE sample mean/std: 0.491 0.148
+GAN sample mean/std: 0.508 0.219
