@@ -1,0 +1,2 @@
+Binary image labels: 0=healthy-like, 1=disease-like (synthetic mapping)
+Test accuracy: 0.9711

@@ -1,0 +1,2 @@
+Dataset: sklearn digits (8x8), train/test: 1347 450
+Accuracy: 0.9844

@@ -1,0 +1,3 @@
+Weights: [1. 0.] Bias: -1
+Predictions: [1, 0, 1, 0, 1, 0]
+Actual: [1, 0, 1, 0, 1, 0] Accuracy: 1.0

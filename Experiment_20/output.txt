@@ -1,0 +1,3 @@
+Components 2 reconstruction MSE 0.00423
+Components 5 reconstruction MSE 0.00276
+Components 10 reconstruction MSE 0.00043

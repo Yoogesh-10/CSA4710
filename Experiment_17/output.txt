@@ -1,0 +1,3 @@
+Original gradients: [ 0.2  0.5  1.2  3.   8.  15.  30. ]
+Clipped gradients: [0.2 0.5 1.2 3.  5.  5.  5. ]
+Original norm: 34.637 Clipped norm: 9.259

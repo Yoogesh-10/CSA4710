@@ -1,0 +1,4 @@
+Mixing matrix:
+ [[1.  0.5]
+ [0.4 1. ]]
+Recovered components shape: (1000, 2)
