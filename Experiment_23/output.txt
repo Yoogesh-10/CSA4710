@@ -1,0 +1,2 @@
+P(Rain|Cloudy)=0.8; P(Rain|Clear)=0.2
+Marginal P(Rain): 0.5

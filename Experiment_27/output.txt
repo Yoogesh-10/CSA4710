@@ -1,0 +1,2 @@
+RBM-feature logistic accuracy: 0.8267
+Learned representation shape: (5, 64)

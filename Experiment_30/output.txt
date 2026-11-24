@@ -1,0 +1,3 @@
+VAE diversity proxy 0.1199 mean squared deviation 0.0146
+GAN diversity proxy 0.1975 mean squared deviation 0.0395
+Other diversity proxy 0.1598 mean squared deviation 0.0259

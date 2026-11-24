@@ -1,0 +1,5 @@
+CD-1 sample reconstruction MSE=0.2006
+CD-2 sample reconstruction MSE=0.2059
+CD-3 sample reconstruction MSE=0.2060
+CD-4 sample reconstruction MSE=0.2060
+CD-5 sample reconstruction MSE=0.2060
